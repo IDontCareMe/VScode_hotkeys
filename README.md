@@ -6,6 +6,11 @@ VS Code hotkeys/Горячие клавиши VS Code
 Ctrl + ,
 ```
 
+#### View->Command Palette...:
+```
+Ctrl + Shift + P
+```
+
 #### Terminal->New Terminal:
 ```
 Ctrl + Shift + `
