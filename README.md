@@ -11,6 +11,16 @@ Ctrl + ,
 Ctrl + Shift + P
 ```
 
+#### View->Explorer:
+```
+Ctrl + Shift + E
+```
+
+#### View->Extencions:
+```
+Ctrl + Shift + X
+```
+
 #### Terminal->New Terminal:
 ```
 Ctrl + Shift + `
