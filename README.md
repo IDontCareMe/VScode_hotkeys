@@ -21,7 +21,14 @@ Ctrl + Shift + E
 Ctrl + Shift + X
 ```
 
+Чтобы создать новое окно терминала
 #### Terminal->New Terminal:
 ```
 Ctrl + Shift + `
+```
+
+Чтобы скрыть/показать окно терминала
+#### View->Terminal:
+```
+Ctrl + `
 ```
